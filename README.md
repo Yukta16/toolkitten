@@ -22,7 +22,7 @@ You will need the following
 
 # Mission
 
-To offer free coding education to 1 million women by 2020.
+-To offer free coding education to 1 million women by 2020.
 
 # Roadmap
 
@@ -38,5 +38,5 @@ For everything relating to #1millionwomentotech please see the Top Secret Handbo
 
 Note: this is a live document, and you are welcome to make comments on it to request clarification, make suggestions, improvements, and share ideas and requests. Please remember to always be kind, and fun!
 
-Top Secret Handbook
+Top Secret Handbook:
 - https://1millionwomentotech.com/summerofcode1/handbook 
